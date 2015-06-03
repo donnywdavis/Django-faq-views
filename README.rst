@@ -1,11 +1,10 @@
-===
-FAQ
-===
+=========
+FAQ Views
+=========
 
 FAQ is a simple Django app to list frequently asked questions. Multiple
 topics can be listed with separate questions and answers.
 
-Detailed documentation is in the "docs" directory.
 
 Quick start
 -----------
@@ -27,3 +26,9 @@ Quick start
    to create an faq topic with questions and answers (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/faq/ to view the topics, questions, and answers.
+
+
+TODO
+----
+
+- Add detail view to separate topics into separate pages
