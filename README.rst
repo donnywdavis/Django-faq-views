@@ -2,6 +2,10 @@
 FAQ Views
 =========
 
+.. image:: https://readthedocs.org/projects/django-faq-views/badge/?version=latest
+:target: https://readthedocs.org/projects/django-faq-views/?badge=latest
+:alt: Documentation Status
+
 FAQ is a simple Django app to list frequently asked questions. Multiple
 topics can be listed with separate questions and answers.
 
