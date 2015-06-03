@@ -9,14 +9,14 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as readme:
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
-    name='django-faq',
+    name='django-faq-views',
     version='0.1',
     packages=['faq'],
     include_package_data=True,
     license='BSD License',
     description='A simple Django app to list frequently asked questions.',
     long_description=README,
-    url='http://www.example.com',
+    #url='http://www.example.com',
     author='Donny Davis',
     author_email='donnywdavis@icloud.com',
     classifiers=[
