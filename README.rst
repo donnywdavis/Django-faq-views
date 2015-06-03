@@ -32,3 +32,4 @@ TODO
 ----
 
 - Add detail view to separate topics into separate pages
+- Add unit tests
